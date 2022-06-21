@@ -4,3 +4,4 @@ Just some write-up's for the HTB CTF that took place in 2022 and we participated
 * [Kryptos Support](ulysses/kryptos-support.md)
 * [Blinker Fluids](ulysses/blinker-fluids.md)
 * [Analogica Portal](ulysses/analogica-portal.md)
+* [Intergalactic Post](ulysses/intergalactic-post.md)
